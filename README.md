@@ -14,7 +14,8 @@ Deployed code **@23 Aug 2020**
 
 2020-Aug-15 Replaced sensor **back to DHT11 for more reliable reading, TMP35 sensor gives unaccurate reading, strange values of 40 deg**
 
-2020-AUG-22 Added temp-firebase.py script to update to Firebase realtime db resolved 
+2020-AUG-22 Added temp-firebase.py script update to Firebase realtime db 
+*RESOLVED
 https://github.com/chernhaw/RaspberryPI-Twitter-temp/issues/1 by
-"serviceAccount": "/home/pi/Desktop/TweetTemp/myroomtemp-c7758-firebase-adminsdk-1f4dx-4f4f7b0175.json" 
+"serviceAccount": "/home/pi/Desktop/TweetTemp/myroomtemp-c7758-firebase-adminsdk-1f4dx-4f4f7b0175.json" *
 
