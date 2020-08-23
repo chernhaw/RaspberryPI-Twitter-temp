@@ -7,4 +7,4 @@ Python script ReadNTweetTemp1.py to receive and send temperature and humidity da
 
 2020-AUG-22 Added temp-firebase.py script to update to Firebase realtime db **still having issue when running with crontab as @23 Aug 2020** 
 
-
+https://github.com/chernhaw/RaspberryPI-Twitter-temp/issues/1
