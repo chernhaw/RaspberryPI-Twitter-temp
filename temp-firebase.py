@@ -10,7 +10,7 @@ config = {
   "authDomain": "myroomtemp-c7758.firebaseapp.com",
   "databaseURL": "https://myroomtemp-c7758.firebaseio.com/",
   "storageBucket": "myroomtemp-c7758.appspot.com",
-  "serviceAccount": "myroomtemp-c7758-firebase-adminsdk-1f4dx-4f4f7b0175.json"
+  "serviceAccount": "/home/pi/Desktop/TweetTemp/myroomtemp-c7758-firebase-adminsdk-1f4dx-4f4f7b0175.json"
 }
 firebase = pyrebase.initialize_app(config)
 db = firebase.database()
