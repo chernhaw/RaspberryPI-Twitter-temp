@@ -7,11 +7,11 @@ from collections import OrderedDict, deque
 from pyrebase import pyrebase
 
 config = {
-  "apiKey": "db70f6e1c18866084d099385ec170d9f5f2db660",
+  "apiKey": "c0",
   "authDomain": "myroomtemp-c7758.firebaseapp.com",
   "databaseURL": "https://myroomtemp-c7758.firebaseio.com/",
   "storageBucket": "myroomtemp-c7758.appspot.com",
-  "serviceAccount": "/home/pi/Desktop/TweetTemp/myroomtemp-c7758-firebase-adminsdk-1f4dx-4f4f7b0175.json"
+  "serviceAccount": "/c75.json"
 }
 firebase = pyrebase.initialize_app(config)
 db = firebase.database()
